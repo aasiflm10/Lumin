@@ -13,5 +13,7 @@ The navigation is simiple : <br/>
 
 <br/>
 
+In frontend run "npm run dev"
+and in backend run ""
 Thanks. Have fun.
 
